@@ -1,7 +1,7 @@
 
 # 流量卡
 
-![号卡](https://nav.programnotes.cn/images/haoka/haoka1.jpg)
+![号卡](haoka1.jpg)
 
 [点击前往](https://h5.lot-ml.com/ProductEn/Index/38a51af190afbde1)
 
